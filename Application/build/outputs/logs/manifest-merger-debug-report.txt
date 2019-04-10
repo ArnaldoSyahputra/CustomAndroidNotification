@@ -1,8 +1,8 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:20:1-43:12
-INJECTED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:20:1-43:12
-INJECTED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:20:1-43:12
+ADDED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:3:1-26:12
+INJECTED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:3:1-26:12
+INJECTED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:3:1-26:12
 MERGED from [com.android.support:support-v13:27.0.2] C:\Users\acer\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\33341e49ff49137d0e1ec66e12d095b6\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-v4:27.0.2] C:\Users\acer\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\ca3be9116ec7952b881a9deb4f0665ce\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\acer\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\583cd0c19681d9522afc042c77526006\AndroidManifest.xml:17:1-22:12
@@ -15,46 +15,46 @@ MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\acer\.gradle\c
 MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\acer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\9974fde276246d4e4ea23b23219ec34d\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-compat:27.0.2] C:\Users\acer\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\04a35122deff1b0d2dac0915c32e29a8\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\acer\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\9153d1648b48798aad2c25568bafebb2\AndroidManifest.xml:17:1-24:12
-INJECTED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:20:1-43:12
-INJECTED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:20:1-43:12
+INJECTED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:3:1-26:12
+INJECTED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:3:1-26:12
 	package
-		ADDED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:21:5-54
+		ADDED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:4:5-54
 	android:versionName
-		ADDED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:23:5-30
+		ADDED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:6:5-30
 		INJECTED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml
 		INJECTED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:20:11-69
+		ADDED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:3:11-69
 	android:versionCode
-		ADDED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:22:5-28
+		ADDED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:5:5-28
 		INJECTED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml
 		INJECTED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml
 application
-ADDED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:27:5-41:19
+ADDED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:10:5-24:19
 	android:label
-		ADDED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:30:9-41
+		ADDED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:13:9-41
 	android:icon
-		ADDED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:29:9-45
+		ADDED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:12:9-36
 	android:allowBackup
-		ADDED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:28:9-35
+		ADDED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:11:9-35
 	android:theme
-		ADDED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:31:9-40
+		ADDED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:14:9-40
 activity#com.example.android.customnotifications.MainActivity
-ADDED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:32:9-40:20
+ADDED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:15:9-23:20
 	android:label
-		ADDED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:34:13-45
+		ADDED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:17:13-45
 	android:name
-		ADDED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:33:13-80
+		ADDED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:16:13-80
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:35:13-39:29
+ADDED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:18:13-22:29
 action#android.intent.action.MAIN
-ADDED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:36:17-69
+ADDED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:19:17-69
 	android:name
-		ADDED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:36:25-66
+		ADDED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:19:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:38:17-77
+ADDED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:38:27-74
+		ADDED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml:21:27-74
 uses-sdk
 INJECTED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\Kuliah\Capung Project\CustomNotifications\Application\src\main\AndroidManifest.xml
