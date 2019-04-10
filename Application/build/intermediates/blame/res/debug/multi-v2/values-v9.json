@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Kuliah\\Capung Project\\CustomNotifications\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v9\\values-v9.xml",
+            "map": [
+                {
+                    "source": "D:\\Kuliah\\Capung Project\\CustomNotifications\\Application\\src\\main\\res\\values-v9\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "165"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "12",
+                        "endOffsets": "164"
+                    }
+                }
+            ]
+        }
+    ]
+}
